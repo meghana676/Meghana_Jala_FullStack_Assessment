@@ -1,4 +1,4 @@
-# JALA Student Skills App
+# Student Skills App
 
 A Django web application for managing student skills, built with Python and Django.
 
